@@ -2,3 +2,5 @@
 Refrescar y pulir ciertos aspectos con GitHub
 
 Cambio para PULL
+
+Verificar con FETCH
